@@ -1,4 +1,3 @@
 # MaqueenPlus
-Voor de Python Robotics workshop met de Maqueen Plus.
+Files voor de workshop "Python Robotics" met de Maqueen Plus.
 
-Hallo
