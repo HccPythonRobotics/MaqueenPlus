@@ -1,3 +1,3 @@
 # MaqueenPlus
-Files voor de workshop "Python Robotics" met de Maqueen Plus.
-
+Files voor de HCC-Robotica workshop "Python Robotics" met de Maqueen Plus.
+![Logo](./Workshop.jpg)
