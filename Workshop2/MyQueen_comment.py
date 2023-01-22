@@ -267,7 +267,7 @@ class MaqueenPlus:
 
       # Known modes are handled above, so error.
       print("IsDone/Takt ERROR: invalid TaktMode (%s)" % self.TaktMode)
-      return True # sone (sort of)
+      return True # done (sort of)
 
 #******************************************************************************
 class TSensors():
